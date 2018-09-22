@@ -1,0 +1,50 @@
+.digital {
+    height: auto;
+    width: 90%;
+    right: 1px;
+    top: 0;
+    z-index: 2;
+}
+.animation_wrraper {
+    top: 0;
+    left: 0;
+    padding-left: 0;
+}
+.alian {
+    height: 44%;
+    width: 30%;
+    top: 24%;
+    right: 22%;
+    z-index: 3;
+}
+#RightWaVe {
+    top: 34%;
+    right: -1%;
+    z-index: 4;
+    height: 110%;
+    transition: all 2s ease-out;
+}
+.left_wave {
+    height: auto;
+    width: 100%;
+    height: 100%;
+  
+}
+.for_Animation {
+    
+    padding-bottom: 0;
+    top: 0;
+    left: 0;
+}
+#root {
+    top: 0;
+    left: 0;
+    z-index: 19;
+}
+.without_water {
+    top: 40%;
+    left: 10%;
+    font-size: 35px;
+    color: #ffffff;
+}
+

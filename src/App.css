@@ -1,0 +1,53 @@
+#root {
+    background-color: #fafafa;
+}
+p {
+    color: black;
+}
+@font-face {
+    font-family: 'MONTSERRAT';
+    src: url(Montserrat-Medium.otf);
+}
+p {
+    font-family: 'MONTSERRAT';
+    font-size: 13px;
+}
+.icons {
+    letter-spacing: 5px;
+    color: #252525;
+}
+.fa-thumbs-down {
+    color: #9a9a9a;
+}
+.fa-tag {
+    transform: rotate(135deg);
+    color: #9a9a9a;
+}
+.tagText {
+    letter-spacing: normal;
+    font-size: 12px;
+    color:  #9a9a9a;
+}
+.info {
+    padding-top: 8px;
+}
+.main_item {
+    background: #ffffff;
+}
+.for_bg {
+    background-color: #ffffff;
+}
+.show {
+    font-family: 'MONTSERRAT';
+    font-size: 14px;
+    color: #b4b4b4;
+}
+h1{
+    font-family: 'MONTSERRAT';
+    font-size: 16px;
+    font-weight: bold;
+}
+.general__container {
+    overflow: hidden;
+}
+
